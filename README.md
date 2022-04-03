@@ -12,6 +12,8 @@ For runing aplication run npm start
 
 For docker run docker compose up
 
+Docker image on https://hub.docker.com/r/baracante/library-backend-1
+
 Documentation
 https://documenter.getpostman.com/view/19328359/UVysvuzP
 
